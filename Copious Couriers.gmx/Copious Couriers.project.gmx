@@ -16,6 +16,11 @@
     <sprites name="Forest_objects_sprites">
       <sprite>sprites\spr_forest_simpletree</sprite>
     </sprites>
+    <sprites name="Button_functionality_sprites">
+      <sprite>sprites\spr_button_unpressed</sprite>
+      <sprite>sprites\spr_button_pressed</sprite>
+      <sprite>sprites\spr_button_highlight</sprite>
+    </sprites>
   </sprites>
   <backgrounds name="background">
     <backgrounds name="Forest_Backgrounds">
@@ -34,6 +39,11 @@
     </objects>
     <objects name="Forest_objects">
       <object>objects\ob_forest_simpletree</object>
+    </objects>
+    <objects name="Templates_objects">
+      <objects name="ob_Buttons">
+        <object>objects\ob_button_template</object>
+      </objects>
     </objects>
   </objects>
   <rooms name="rooms">

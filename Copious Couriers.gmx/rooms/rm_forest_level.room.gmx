@@ -51,22 +51,17 @@
     <view visible="0" objName="&lt;undefined&gt;" xview="0" yview="0" wview="1024" hview="768" xport="0" yport="0" wport="1024" hport="768" hborder="32" vborder="32" hspeed="-1" vspeed="-1"/>
   </views>
   <instances>
-    <instance objName="&lt;undefined&gt;" x="220" y="356" name="inst_A81C9CC2" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="&lt;undefined&gt;" x="544" y="64" name="inst_39DA6BCA" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="ob_wagon_wagon" x="30" y="348" name="inst_A38E0923" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="ob_wagon_wheel_back" x="142" y="355" name="inst_36C9B59F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="ob_wagon_wheel_back" x="66" y="355" name="inst_FFF5E6B9" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="ob_wagon_wheell_front" x="121" y="375" name="inst_9D543DB7" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="ob_wagon_wheell_front" x="45" y="375" name="inst_66223A43" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="&lt;undefined&gt;" x="480" y="320" name="inst_204C93EF" locked="0" code="" scaleX="1.20000004768372" scaleY="1.20000004768372" colour="4294967295" rotation="0"/>
-    <instance objName="&lt;undefined&gt;" x="512" y="352" name="inst_98B102D9" locked="0" code="" scaleX="1.20000004768372" scaleY="1.20000004768372" colour="4294967295" rotation="0"/>
-    <instance objName="&lt;undefined&gt;" x="448" y="320" name="inst_216866C5" locked="0" code="" scaleX="1.20000004768372" scaleY="1.20000004768372" colour="4294967295" rotation="0"/>
     <instance objName="ob_encounter_highwayman" x="576" y="320" name="inst_64D26105" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="ob_encounter_highwayman" x="544" y="320" name="inst_32863BC4" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="ob_encounter_highwayman" x="512" y="320" name="inst_CD09F908" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="ob_forest_simpletree" x="544" y="32" name="inst_F412910E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="ob_forest_simpletree" x="512" y="64" name="inst_382D39F3" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="ob_forest_simpletree" x="480" y="32" name="inst_93A75760" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="ob_forest_simpletree" x="480" y="64" name="inst_93A75760" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="ob_forest_simpletree" x="416" y="32" name="inst_A7F74699" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="ob_forest_simpletree" x="352" y="64" name="inst_C2EF790F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="ob_forest_simpletree" x="384" y="96" name="inst_1F0AC7B5" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
