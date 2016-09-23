@@ -21,10 +21,18 @@
       <sprite>sprites\spr_button_pressed</sprite>
       <sprite>sprites\spr_button_highlight</sprite>
     </sprites>
+    <sprites name="Snow_objects_sprites">
+      <sprite>sprites\spr_snow_simpletree</sprite>
+      <sprite>sprites\spr_snow_clouds</sprite>
+      <sprite>sprites\spr_snow_patch</sprite>
+    </sprites>
   </sprites>
   <backgrounds name="background">
-    <backgrounds name="Forest_Backgrounds">
+    <backgrounds name="Forest_backgrounds">
       <background>background\bg_level_forest</background>
+    </backgrounds>
+    <backgrounds name="Snow_backgrounds">
+      <background>background\bg_level_snow</background>
     </backgrounds>
   </backgrounds>
   <paths name="paths"/>
@@ -45,9 +53,17 @@
         <object>objects\ob_button_template</object>
       </objects>
     </objects>
+    <objects name="Snow_objects">
+      <object>objects\ob_snow_simpletree</object>
+      <object>objects\ob_snow_clouds</object>
+      <object>objects\ob_snow_patch</object>
+    </objects>
+    <objects name="MainLevel_objects">
+      <object>objects\ob_mainLevel_control</object>
+    </objects>
   </objects>
   <rooms name="rooms">
-    <room>rooms\rm_forest_level</room>
+    <room>rooms\rm_main_level</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>
